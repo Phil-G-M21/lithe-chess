@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lithe-chess/static/css/main.cc17c676.css",
+    "main.js": "/lithe-chess/static/js/main.161debe8.js",
+    "index.html": "/lithe-chess/index.html",
+    "main.cc17c676.css.map": "/lithe-chess/static/css/main.cc17c676.css.map",
+    "main.161debe8.js.map": "/lithe-chess/static/js/main.161debe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc17c676.css",
+    "static/js/main.161debe8.js"
+  ]
+}
