@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/lithe-chess/static/css/main.576ea3f0.css",
-    "main.js": "/lithe-chess/static/js/main.b87a2613.js",
+    "main.css": "/lithe-chess/static/css/main.916019e4.css",
+    "main.js": "/lithe-chess/static/js/main.d21a9bae.js",
     "static/js/206.8c37a5bc.chunk.js": "/lithe-chess/static/js/206.8c37a5bc.chunk.js",
-    "static/media/bundler.cjs": "/lithe-chess/static/media/bundler.560a831268a8a7c09276.cjs",
     "index.html": "/lithe-chess/index.html"
   },
   "entrypoints": [
-    "static/css/main.576ea3f0.css",
-    "static/js/main.b87a2613.js"
+    "static/css/main.916019e4.css",
+    "static/js/main.d21a9bae.js"
   ]
 }
