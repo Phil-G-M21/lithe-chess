@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/lithe-chess/static/css/main.2fde9cfa.css",
-    "main.js": "/lithe-chess/static/js/main.448b0721.js",
+    "main.js": "/lithe-chess/static/js/main.08c72ae4.js",
     "static/js/206.8c37a5bc.chunk.js": "/lithe-chess/static/js/206.8c37a5bc.chunk.js",
     "index.html": "/lithe-chess/index.html"
   },
   "entrypoints": [
     "static/css/main.2fde9cfa.css",
-    "static/js/main.448b0721.js"
+    "static/js/main.08c72ae4.js"
   ]
 }
